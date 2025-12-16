@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1116670418.svg)](https://doi.org/10.5281/zenodo.17950593)
+Este repositório contém protocolos abertos do Projeto Lontra, com DOI permanente para citação acadêmica.
 # protocolos-abertos
 # Protocolos Abertos – Projeto Lontra  
 Documentos técnicos validados em campo, em licença aberta.
