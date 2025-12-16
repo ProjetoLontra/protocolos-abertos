@@ -1,6 +1,6 @@
 # 📄 Open Protocol: Non-Invasive Reproductive Management of *Lontra longicaudis* in Captivity  
 *(Based on Carvalho-Junior et al., 2022 — Brazilian Journal of Animal and Environmental Research)*  
-
+[![DOI](https://zenodo.org/badge/1116670418.svg)](https://doi.org/10.5281/zenodo.17950593)
 **Authorship**: Projeto Lontra / Instituto Ekko Brasil  
 **License**: CC0 1.0 Universal (Public Domain)  
 **Version**: 1.0 — December 2025  
