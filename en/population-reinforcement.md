@@ -1,6 +1,6 @@
 # 📄 Open Protocol: Population Reinforcement of *Lontra longicaudis* in the Wild  
 *(Based on Carvalho-Junior et al., 2022 — Brazilian Journal of Animal and Environmental Research)*  
-
+[![DOI](https://zenodo.org/badge/1116670418.svg)](https://doi.org/10.5281/zenodo.17950593)
 **Authorship**: Projeto Lontra / Instituto Ekko Brasil  
 **License**: CC-BY-NC 4.0 (non-commercial use, with attribution)  
 **Version**: 1.0 — December 2025  
